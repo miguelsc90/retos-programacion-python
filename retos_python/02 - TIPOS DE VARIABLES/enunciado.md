@@ -1,4 +1,4 @@
-# 01 - TIPOS DE VARIABLES
+# 02 - TIPOS DE VARIABLES
 
 > #### | Publicado -> 15/03/2024 | Corrección -> 22/03/2024 | Deficultad -> Facil |
 

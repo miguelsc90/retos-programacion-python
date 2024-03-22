@@ -18,4 +18,4 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 */ 
 ```
-#### Visita nuesta WEB donde podrás encontrar todos los resto semanales -> [Moddrone Academy](https://moddroneacademy.com/index.php/python/)
+#### Visita nuesta WEB donde podrás encontrar todos los retos semanales -> [Moddrone Academy](https://moddroneacademy.com/index.php/python/)

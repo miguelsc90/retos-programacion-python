@@ -13,7 +13,7 @@
 * Debemos realizar el cálculo matemático correspondiente a cada función.
 * En cada función debemos retornar el resultado.
 
-    DIFICULTAD EXTRA:
+  DIFICULTAD EXTRA:
 * Usa la función "input()" para pedir al usuario los 2 números con los que vamos a realizar los cálculos.
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 */ 

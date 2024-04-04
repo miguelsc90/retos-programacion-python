@@ -19,3 +19,9 @@
 */ 
 ```
 #### Visita nuesta WEB donde podrás encontrar todos los retos semanales -> [Moddrone Academy](https://moddroneacademy.com/index.php/python/)
+
+#### Visita nuestro canal de Youtube -> [YouTube](https://www.youtube.com/@Moddrone)
+
+#### Visita nuestro Instagram -> [Instagram](https://www.instagram.com/moddrone/)
+
+#### Visita nuestro TikTok -> [TikTok](https://www.tiktok.com/@moddrone)
